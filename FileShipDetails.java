@@ -15,7 +15,7 @@ public class FileShipDetails {
 
 /* Checks if the file is valid and reads it into an array using fileToList() then returns it */
     public static ArrayList shipmentDetails() throws FileNotFoundException {
-        String fileName = "myInput.txt";
+        String fileName = "input.txt";
         java.io.File file = new java.io.File(fileName);
         ArrayList fileList = new ArrayList();
 
