@@ -1,7 +1,6 @@
 /* Morgan Otto
- * CSC161101
  * Dec 3, 2021
- * Final Program - Let's Ship */
+ * Program - Let's Ship */
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
